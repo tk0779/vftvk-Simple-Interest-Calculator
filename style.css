@@ -1,24 +1,25 @@
 body {
-    background-color:black;
-    font-family:arial;
-    color:white;
-    display:grid;
-    margin:auto;
-    }
+        background-color: black;
+        font-family: arial;
+        color: white;
+        display: grid;;
+        margin: auto;
+        margin-top: 50px;
 
-h1{
-    color:grey;
-    font-family:verdana
-    }
+      }
 
-.maindiv {
-    background-color:white;
-    color:black;
-    width: 300px;
-    padding: 20px;
-    border-radius: 25px;
-    align:center;
-    margin:auto;
-    justify-content:center;
-}
+      h1 {
+        color: grey;
+        font-family: verdana;
+      }
 
+      .maindiv {
+        background-color: white;
+        color: black;
+        width: 300px;
+        padding: 20px;
+        border-radius: 25px;
+        align-content: center;
+        margin: auto;
+        justify-content: center;
+      }
